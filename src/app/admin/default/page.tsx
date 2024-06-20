@@ -21,16 +21,7 @@
 
 */
 
-import {
-  Box,
-  Flex,
-  FormLabel,
-  Image,
-  Icon,
-  Select,
-  SimpleGrid,
-  useColorModeValue,
-} from '@chakra-ui/react';
+import { Box, Icon, SimpleGrid, useColorModeValue } from '@chakra-ui/react';
 // Custom components
 // import MiniCalendar from 'components/calendar/MiniCalendar';
 import MiniStatistics from 'components/card/MiniStatistics';
